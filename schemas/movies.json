@@ -1,0 +1,12 @@
+{
+	"movie_id": "string",
+	"name": "string",
+	"year": "int",
+	"rankscore": "float",
+	"actors": [
+		{
+			"actor_id": "int",
+			"role": "string"
+		}
+	]
+}
